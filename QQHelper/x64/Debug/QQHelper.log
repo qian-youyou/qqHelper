@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/5/3 20:16:26。
+     1>项目“F:\visual studio 2015\C\项目\QQHelper\QQHelper\QQHelper.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\QQHelper.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\QQHelper.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt QQHelper.cpp QQHelperDlg.cpp QQmessage.cpp
+         QQmessage.cpp
+         QQHelperDlg.cpp
+         QQHelper.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\QQHelper.res" QQHelper.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\visual studio 2015\C\项目\QQHelper\x64\Debug\QQHelper.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"F:\visual studio 2015\C\项目\QQHelper\x64\Debug\QQHelper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\visual studio 2015\C\项目\QQHelper\x64\Debug\QQHelper.lib" /MACHINE:X64 x64\Debug\QQHelper.res
+         x64\Debug\QQHelper.obj
+         x64\Debug\QQHelperDlg.obj
+         x64\Debug\QQmessage.obj
+         x64\Debug\stdafx.obj
+         QQHelper.vcxproj -> F:\visual studio 2015\C\项目\QQHelper\x64\Debug\QQHelper.exe
+     1>已完成生成项目“F:\visual studio 2015\C\项目\QQHelper\QQHelper\QQHelper.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:16.26
